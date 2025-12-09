@@ -12,7 +12,7 @@ This project predicts a binary hiring/selection decision (`Target`: `Yes`/`No`) 
 ---
 
 ## Dataset & Features
-Expected input CSV (example: `data.csv`) columns:
+CSV  columns:
 - `CGPA` (float)  
 - `Internships` (int) — count or months  
 - `Projects` (int) — count of projects  
